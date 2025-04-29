@@ -1,15 +1,10 @@
-# Hello, I'm Biplob Raihan 👋
+# Hi, I'm [Biplob Raihan](https://github.com/imbr17) 👋
 
-Welcome to my GitHub profile. Here's a quick overview of my work and skills:
+I'm a passionate **Software Developer** and **AI Enthusiast** 🚀.
 
-## 🔧 Technologies and Tools:
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=ffffff)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=ffffff)
+- 🔭 I’m currently working on **AI projects**.
+- 🌱 I’m learning **Python**, **Machine Learning**, and **Web Development**.
+- 📝 I write about **programming** and **AI** on my blog.
+- 💬 Ask me about **coding**, **AI**, or **open-source projects**.
+- 📫 How to reach me: **imbr17@example.com**
 
-## 📈 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=tokyonight)
-
-## 🌱 I’m currently learning:
-![Python Animation](https://your_gif_link_here.gif)
-
-Feel free to explore my repositories and collaborate with me!
