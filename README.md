@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/imbr17">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I+am+Biplob+Raihan+%F0%9F%91%8B;AI+Engineer+%7C+ML+Dev+%7C+Problem+Solver;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I+am+Imran+%F0%9F%91%8B;AI+Engineer+%7C+ML+Dev+%7C+Problem+Solver;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -67,3 +67,4 @@ I'm a passionate **Software Developer**, **AI Enthusiast**, and **Competitive Pr
 ---
 
 > "The only way to do great work is to love what you do." – Steve Jobs
+
