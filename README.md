@@ -6,7 +6,7 @@ I'm a passionate **Software Developer**, **AI Enthusiast**, and **Competitive Pr
 - 🌱 I’m learning more about **AI research** and **open-source contributions**.
 - 📝 I love solving problems on **LeetCode** and **Codeforces** to enhance my algorithmic skills.
 - 💬 Ask me about **Python**, **C++**, **Machine Learning**, **NLP**, **Docker**, or anything tech-related!
-- 📫 How to reach me: **imbr17@example.com**
+- 📫 How to reach me: **istiaqbiplob03@gmail.com**
 
 ## 🚀 Technologies & Tools:
 
