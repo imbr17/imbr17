@@ -38,20 +38,4 @@
 ## 📊 GitHub Activity:
 ![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=imbr17&theme=github)
 
----
-
-## Fun Facts About Me:
-- 🎮 I enjoy **gaming** and **puzzle-solving** in my free time.
-- 🌍 I’m passionate about **traveling**—next stop is **Japan** 🇯🇵.
-- 🍕 My favorite food is **pizza** (obviously 😄).
-- 🌱 I believe in lifelong learning and making the world a better place through **technology**.
-
-## Connect with Me:
-- [LinkedIn](https://www.linkedin.com/in/imbr17)
-- [Twitter](https://twitter.com/imbr17)
-- [Website](https://www.imbr17.com)
-
----
-
-> "The only way to do great work is to love what you do." – Steve Jobs
-
+ 
