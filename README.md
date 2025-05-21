@@ -1,17 +1,4 @@
-<h1 align="center">
-  <a href="https://github.com/imbr17">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I+am+Biplob+Raihan+%F0%9F%91%8B;AI+Engineer+%7C+ML+Dev+%7C+Problem+Solver;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
-  </a>
-</h1>
-
-I'm a passionate **Software Developer**, **AI Enthusiast**, and **Competitive Programmer** 🚀.
-
-- 🔭 I’m currently working on **AI projects** and exploring **NLP**, **Deep Learning**, and **Machine Learning**.
-- 🌱 I’m learning more about **AI research** and **open-source contributions**.
-- 📝 I love solving problems on **LeetCode** and **Codeforces** to enhance my algorithmic skills.
-- 💬 Ask me about **Python**, **C++**, **Machine Learning**, **NLP**, **Docker**, or anything tech-related!
-- 📫 How to reach me: **istiaqbiplob03@gmail.com**
-
+ 
 ## 🚀 Technologies & Tools:
 
 ### Programming Languages:
