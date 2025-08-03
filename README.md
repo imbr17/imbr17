@@ -41,31 +41,13 @@
 
 ---
 
-## 📌 Featured Projects
-
-- 🧠 [`nlp-news-classifier`](https://github.com/imbr17/nlp-news-classifier) — Built a real-world news categorization model using Transformers
-- 📊 [`ml-credit-default-prediction`](https://github.com/imbr17/ml-credit-default-prediction) — Full pipeline ML project with EDA, model training, and evaluation
-- 🚀 [`cp-solutions`](https://github.com/imbr17/cp-solutions) — Regularly updated Competitive Programming solutions
-
----
-
 ## 📫 Reach Out To Me
 
 - 💼 [LinkedIn](https://linkedin.com/in/YOUR-LINK)  
 - 🐦 [Twitter](https://twitter.com/YOUR-HANDLE)  
-- ✉️ your.email@example.com
-
 ---
 
 <p align="center">
   <i>"Let models learn, but never stop learning yourself."</i>  
 </p>
-
-
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 🐦 [Twitter/X](https://twitter.com/your-profile)
-- ✉️ your.email@example.com
-
----
-
 <p align="center">"Code. Learn. Repeat. Build what matters."</p>
