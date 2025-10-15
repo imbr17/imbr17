@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm imbr17 👋</h1>
+<h1 align="center">Hi, I'm Biplob Raihan 👋</h1>
 
 <p align="center">
 🤖 Machine Learning & NLP Enthusiast | 💻 Competitive Coder | 🔍 Deep Thinker <br>
@@ -15,7 +15,6 @@
   - HuggingFace, spaCy, NLTK
 - 🛠 Building ML pipelines from scratch: data → model → deployment.
 - 🎯 Focused on solving real-world problems using Deep Learning.
-
 ---
 
 ## 🛠 Tech Stack
@@ -43,8 +42,7 @@
 
 ## 📫 Reach Out To Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/YOUR-LINK)  
-- 🐦 [Twitter](https://twitter.com/YOUR-HANDLE)  
+- 💼 [LinkedIn]([https://linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/md-biplob-raihan-499457378/))   
 ---
 
 <p align="center">
