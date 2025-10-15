@@ -42,7 +42,7 @@
 
 ## 📫 Reach Out To Me
 
-- 💼 [LinkedIn]([https://linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/md-biplob-raihan-499457378/))   
+- 💼 [LinkedIn](([https://www.linkedin.com/in/md-biplob-raihan-499457378/]))   
 ---
 
 <p align="center">
